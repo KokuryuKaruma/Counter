@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ea7a158-75a0-4b23-a1e8-c1a4383351e3": {
+      "ProjectGuid": "6ea7a158-75a0-4b23-a1e8-c1a4383351e3",
+      "DisplayName": "Pachinko Counter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
